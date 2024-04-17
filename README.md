@@ -10,5 +10,7 @@
 ## 作業連結區
 *  [作業1](https://github.com/dengdee/PL-Repo/blob/main/HW/HW1/HW1.ipynb)
 *  [作業2](https://github.com/dengdee/PL-Repo/blob/main/HW/HW2/HW2.ipynb)
+*  [作業3](https://github.com/dengdee/PL-Repo/tree/main/HW/HW3)
+
 
 ## 專題連結區
